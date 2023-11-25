@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+body {
+  background-color: rgba(105, 204, 204, 0.74);
+  text-align: justify;
+}
+
+#principal {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+}
+
+.basico {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.intermediario {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
